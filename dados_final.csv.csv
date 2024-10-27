@@ -1,0 +1,35 @@
+cliente_id;nome;idlocal;nlocal;idtipo;ntipo;idlocalizacao;nlocalizacao;idfornecedor;nfornecedor;idservico;nservico;idfesta
+1;joao;10;buffet;20;infantil;1;Rua São Paulo;1;Buffet de doces;1;Bolo;1
+1;joao;10;buffet;20;infantil;1;Rua São Paulo;1;Buffet de doces;2;Doce;1
+1;joao;10;buffet;20;infantil;1;Rua São Paulo;2;Buffet de salgado;30;Salgado;1
+1;joao;10;buffet;20;infantil;1;Rua São Paulo;3;Palhaço AS;40;Brinquedo;1
+1;joao;10;buffet;20;infantil;1;Rua São Paulo;4;Mundo encantado;50;Fantasia;1
+2;ana;11;sitio;21;aniversario;20;Estrada tres;1;Buffet de doces;1;Bolo;2
+2;ana;11;sitio;21;aniversario;20;Estrada tres;5;Adega;60;bebida;2
+2;ana;11;sitio;21;aniversario;20;Estrada tres;6;churrasco AS;70;churrasqueiro;2
+2;ana;11;sitio;21;aniversario;20;Estrada tres;7;DJ denis;80;DJ;2
+3;jorge;12;buffet;22;casamento;32;Avenida cinco;1;Buffet de doces;1;Bolo;3
+3;jorge;12;buffet;22;casamento;32;Avenida cinco;7;DJ denis;80;DJ;3
+3;jorge;12;buffet;22;casamento;32;Avenida cinco;5;adega;60;bebida;3
+3;jorge;12;buffet;22;casamento;32;Avenida cinco;8;Buffet comida;90;Comida;3
+3;jorge;12;buffet;22;casamento;32;Avenida cinco;1;locultores;7;Cerimonia;3
+4;carla;13;fazenda;23;rave;33;Rua central;7;Tudo Festa;80;DJ;4
+4;carla;13;fazenda;23;rave;33;Rua central;7;Tudo Festa;81;Estrutura palco;4
+4;carla;13;fazenda;23;rave;33;Rua central;10;Policia;100;Seguranca;4
+4;carla;13;fazenda;23;rave;33;Rua central;5;Adega;60;bebida;4
+4;carla;13;fazenda;23;rave;33;Rua central;4;Mundo encantado;50;Fantasia;4
+5;maria;14;bar;21;aniversario;34;Praca dez;1;Buffet de doces;1;Bolo;5
+5;maria;14;bar;21;aniversario;34;Praca dez;15;Banda;101;banda pagode;5
+5;maria;14;bar;21;aniversario;34;Praca dez;5;adega;60;bebida;5
+5;maria;14;bar;21;aniversario;34;Praca dez;10;Policia;100;Seguranca;5
+5;maria;14;bar;21;aniversario;34;Praca dez;6;churrasco AS;70;churrasqueiro;5
+6;mara;15;sitio;25;Festa fantasia;20;Estrada tres;5;Adega;60;bebida;6
+6;mara;15;sitio;25;Festa fantasia;20;Estrada tres;7;Tudo Festa;81;Estrutura palco;6
+6;mara;15;sitio;25;Festa fantasia;20;Estrada tres;15;Banda;102;banda Rock;6
+6;mara;15;sitio;25;Festa fantasia;20;Estrada tres;6;churrasco AS;70;churrasqueiro;6
+6;mara;15;sitio;25;Festa fantasia;20;Estrada tres;4;Mundo encantado;50;Fantasia;6
+7;michele;13;fazenda;20;infantil;33;Rua central;1;Buffet de doces;1;Bolo;7
+7;michele;13;fazenda;20;infantil;33;Rua central;57;Zoo;215;Animais;7
+7;michele;13;fazenda;20;infantil;33;Rua central;15;Banda;101;banda pagode;7
+7;michele;13;fazenda;20;infantil;33;Rua central;1;Buffet de doces;2;Doce;7
+7;michele;13;fazenda;20;infantil;33;Rua central;5;Adega;60;bebida;7
